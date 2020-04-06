@@ -1,7 +1,7 @@
 DESCRIPTION = "Altera Linux kernel"
 LICENSE = "GPLv2"
 
-KERNEL_REPO ?= "git://github.com/altera-opensource/linux-socfpga.git"
+KERNEL_REPO ?= "git://github.com/dprts/linux-socfpga.git"
 KERNEL_PROT ?= "https"
 
 # Kernel CONFIG_LOCALVERSION
